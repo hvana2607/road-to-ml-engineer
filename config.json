@@ -1,0 +1,6 @@
+{
+    "app_name": "MyApp",
+    "version": "1.0",
+    "debug": true,
+    "max_users": 100
+}
