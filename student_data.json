@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Harika",
+        "age": 30,
+        "grade": 70,
+        "subjects": [
+            "english,hindi,evs"
+        ]
+    }
+]
