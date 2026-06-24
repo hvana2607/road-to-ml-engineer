@@ -1,0 +1,14 @@
+[
+    {
+        "Amount": 1000,
+        "Category": "Food",
+        "Description": "Lunch at cafe",
+        "Date": "06/22/2026"
+    },
+    {
+        "Amount": 9700,
+        "Category": "food",
+        "Description": "Lunch",
+        "Date": "09/09/2026"
+    }
+]
