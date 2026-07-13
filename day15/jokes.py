@@ -17,5 +17,3 @@ def get_joke()-> str:
     return f"Setup: {data['setup']}\nPunchline: {data['delivery']}"
 
 
-for i in range(3):
-    print(get_joke())
