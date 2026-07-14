@@ -1,6 +1,6 @@
 {
-    "app_name": "MyApp",
-    "version": "1.0",
-    "debug": true,
-    "max_users": 100
+  "app_name": "MyAI",
+  "version": 1.0,
+  "debug": true,
+  "max_tokens": 500
 }
