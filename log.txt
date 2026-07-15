@@ -1,2 +1,3 @@
 Day 2 of comeback 
 File handling review 
+Session on 2026-07-15: CSV revision done
