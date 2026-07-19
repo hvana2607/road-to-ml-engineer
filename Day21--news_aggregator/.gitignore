@@ -1,0 +1,13 @@
+venv/
+myenv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+*.egg-info/
+dist/
+.mypy_cache/
+expenses.json
+expenses.log
+.env
+myenv/
